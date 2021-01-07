@@ -232,5 +232,8 @@ button i {
 
 .previewCategories.noScroll .category .entities  {
     white-space: normal;
+}
 
+.watchContainer {
+    width: 100%;
 }
